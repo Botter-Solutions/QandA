@@ -1,0 +1,670 @@
+﻿[
+    {
+        "text": "SECRET",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Weights",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Supplier(s)",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Color",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Porosity",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Substance",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "mm",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "O"
+    },
+    {
+        "text": "13%",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mg",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mg",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "N/A",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "N/A",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "N/A",
+        "label": "O"
+    },
+    {
+        "text": "N/A",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "620753790",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "CHAMP",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "S/",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "L",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "TRIAL",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "SPECIFICATION",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "BWIT",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Suggestion",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "HK",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Trial",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "CIGARETTE",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "MAKING",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Physical",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Characteristics",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Overall",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Cigarette",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Length",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Tobacco",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Rod",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Length",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Filter",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Plug",
+        "label": "O"
+    },
+    {
+        "text": "Length",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Filter",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Plug",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Pressure",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Drop",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "(unencap.)",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Filter",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Plug",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Pressure",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Drop",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "(encap.)",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Cigarette",
+        "label": "O"
+    },
+    {
+        "text": "Circumference",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Total",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Pressure",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Drop",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "(unencap.)",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Total",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Pressure",
+        "label": "O"
+    },
+    {
+        "text": "Drop",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "(encap.)",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Tipping",
+        "label": "O"
+    },
+    {
+        "text": "Length",
+        "label": "O"
+    },
+    {
+        "text": "Print",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Position",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "(from",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "filter",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "end)",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Moisture",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "content",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "(Packing)",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Filter",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Ventilation",
+        "label": "O"
+    },
+    {
+        "text": "Rate",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Total",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Cigarette",
+        "label": "O"
+    },
+    {
+        "text": "Weight",
+        "label": "O"
+    },
+    {
+        "text": "Net",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Net",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Tobacco",
+        "label": "O"
+    },
+    {
+        "text": "Tobacco",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Rod",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Density",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Tipping",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "and",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Tipping",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Application",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Tipping",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Paper:",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Supplier",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Code",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "No(s).",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Perforation",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Type",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "&",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "No.",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "of",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "lines",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Print",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Description",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Bobbin",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Width",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Dobbin",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Length",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "ECUSTA/",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "B&W",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "ECUSTA/",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "B",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "&",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "W",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Non",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Porous",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "64",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "mm",
+        "label": "O"
+    },
+    {
+        "text": "2500",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "M",
+        "label": "O"
+    },
+    {
+        "text": "36",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "nm/",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "M2",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "Non",
+        "label": "O"
+    },
+    {
+        "text": "Porous",
+        "label": "O"
+    },
+    {
+        "text": "64",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "O"
+    },
+    {
+        "text": "2500",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "M",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "36",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "nm",
+        "label": "O"
+    },
+    {
+        "text": "/47M2",
+        "label": "O"
+    },
+    {
+        "text": "243.6",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mg/",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "cc",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "243.6",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mg/",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "858",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mg",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "858",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "mg",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "35",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "32",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "32",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "35",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "13",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "%",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "24.8",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "58.5",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "24.8",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "mm",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "58.5",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "62",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "27",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "72",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "99",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "mm",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "99",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "mm",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "72",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "27",
+        "label": "O"
+    },
+    {
+        "text": "mm",
+        "label": "I-ANSWER"
+    }
+]

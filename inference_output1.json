@@ -1,0 +1,930 @@
+﻿[
+    {
+        "text": "Brand:",
+        "label": "O"
+    },
+    {
+        "text": "Style:",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "PHOENIX",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Company:",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Country:",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Macket:",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "CYPRUS",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "NICOSIA",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Weights",
+        "label": "O"
+    },
+    {
+        "text": "Adhesive:",
+        "label": "O"
+    },
+    {
+        "text": "Supplier(s)",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Color",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Porosity",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "substance",
+        "label": "O"
+    },
+    {
+        "text": "Ecusta",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "E.30639",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "None",
+        "label": "O"
+    },
+    {
+        "text": "(coresta)",
+        "label": "O"
+    },
+    {
+        "text": "Type",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Overall",
+        "label": "O"
+    },
+    {
+        "text": "skip",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Dimension",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Positioning",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Swift",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Other",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "N/A",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "x",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Date:",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Date:",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "620419245",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Date:",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Replaces:",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "05045",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "New",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Page",
+        "label": "O"
+    },
+    {
+        "text": "1",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "of",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "10",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "RESTRICTED",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "BROWN",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "&",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "WILLIAMSON",
+        "label": "O"
+    },
+    {
+        "text": "INTERNATIONAL",
+        "label": "O"
+    },
+    {
+        "text": "TOBACCO",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "PRODUCT",
+        "label": "O"
+    },
+    {
+        "text": "SPECIFICATION",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "HLB-",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "KS",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "B.",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "A.",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "T.",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "CYPRUS",
+        "label": "O"
+    },
+    {
+        "text": "Place",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "of",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Manufacture:",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Licensee",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Ref.",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "NO.:",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "CIGARETTE",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "MAKING",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Physical",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Characteristics",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Overall",
+        "label": "O"
+    },
+    {
+        "text": "Cigarette",
+        "label": "O"
+    },
+    {
+        "text": "Length",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Tobacco",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Rod",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Length",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Filter",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Plug",
+        "label": "O"
+    },
+    {
+        "text": "Length",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Filter",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "Plug",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Pressure",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Drop",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "(unencap.)",
+        "label": "O"
+    },
+    {
+        "text": "Filter",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Plug",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Pressure",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Drop",
+        "label": "O"
+    },
+    {
+        "text": "encap.",
+        "label": "O"
+    },
+    {
+        "text": "Cigarette",
+        "label": "O"
+    },
+    {
+        "text": "Circumference",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Total",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Pressure",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Drop",
+        "label": "O"
+    },
+    {
+        "text": "(unencap.)",
+        "label": "O"
+    },
+    {
+        "text": "Total",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Pressure",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Drop",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "(encap.)",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Tipping",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Length",
+        "label": "O"
+    },
+    {
+        "text": "Print",
+        "label": "O"
+    },
+    {
+        "text": "Position",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "(from",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "filter",
+        "label": "O"
+    },
+    {
+        "text": "end)",
+        "label": "O"
+    },
+    {
+        "text": "Moisture",
+        "label": "O"
+    },
+    {
+        "text": "content",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "(ex-catcher)",
+        "label": "O"
+    },
+    {
+        "text": "Filter",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "ventilation",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Rate",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "84",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "64",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "20",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "O"
+    },
+    {
+        "text": "56",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "mm",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "56",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "mm",
+        "label": "O"
+    },
+    {
+        "text": "24.75",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "90",
+        "label": "O"
+    },
+    {
+        "text": "mm",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "110",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "25",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "27",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "13.5",
+        "label": "O"
+    },
+    {
+        "text": "%",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Nil",
+        "label": "O"
+    },
+    {
+        "text": "%",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Total",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Cigt.",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Wt.",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "974",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mg",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "749",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "mg",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "245",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mg/cc",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Net",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Tob.",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Rod",
+        "label": "O"
+    },
+    {
+        "text": "Density",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Net",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Net",
+        "label": "O"
+    },
+    {
+        "text": "Tobacco",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Tipping",
+        "label": "O"
+    },
+    {
+        "text": "and",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Tipping",
+        "label": "O"
+    },
+    {
+        "text": "Application",
+        "label": "O"
+    },
+    {
+        "text": "Tipping",
+        "label": "O"
+    },
+    {
+        "text": "Paper:",
+        "label": "O"
+    },
+    {
+        "text": "Supplier",
+        "label": "O"
+    },
+    {
+        "text": "Code",
+        "label": "O"
+    },
+    {
+        "text": "No(s).",
+        "label": "O"
+    },
+    {
+        "text": "Imitation",
+        "label": "O"
+    },
+    {
+        "text": "Cork",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Perforation",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Type",
+        "label": "O"
+    },
+    {
+        "text": "and",
+        "label": "O"
+    },
+    {
+        "text": "No.",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "of",
+        "label": "O"
+    },
+    {
+        "text": "lines",
+        "label": "O"
+    },
+    {
+        "text": "Print",
+        "label": "O"
+    },
+    {
+        "text": "Description",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Brown",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "on",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "yellow",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Bobbin",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Width",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Robbin",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Length",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "36",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "gm/",
+        "label": "O"
+    },
+    {
+        "text": "m2",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "50",
+        "label": "B-QUESTION"
+    },
+    {
+        "text": "mm",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "O"
+    },
+    {
+        "text": "2700",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "m",
+        "label": "O"
+    },
+    {
+        "text": "(Indicate",
+        "label": "O"
+    },
+    {
+        "text": "N/A",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "If",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Not",
+        "label": "O"
+    },
+    {
+        "text": "Applicable)",
+        "label": "O"
+    },
+    {
+        "text": "Supplier",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "(s)",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "Supplier",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "Code",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "No",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "(s)",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "T.K.",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "9220",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Printed",
+        "label": "O"
+    },
+    {
+        "text": "Imitation",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "cork",
+        "label": "O"
+    },
+    {
+        "text": "Application",
+        "label": "O"
+    },
+    {
+        "text": "Pattern:",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Glue",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Pree",
+        "label": "O"
+    },
+    {
+        "text": "Area",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "from",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "mouth",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "end",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "mm",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "x",
+        "label": "I-ANSWER"
+    },
+    {
+        "text": "mm",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "Prepared",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "by:",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "M.",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "HAMERTON",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "/",
+        "label": "B-HEADER"
+    },
+    {
+        "text": "enm",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "May",
+        "label": "O"
+    },
+    {
+        "text": "1,",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "1985",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Approved",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "by:",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Director",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "of",
+        "label": "O"
+    },
+    {
+        "text": "Technical",
+        "label": "O"
+    },
+    {
+        "text": "Operations,",
+        "label": "O"
+    },
+    {
+        "text": "Brown",
+        "label": "O"
+    },
+    {
+        "text": "&",
+        "label": "O"
+    },
+    {
+        "text": "Williamson",
+        "label": "I-QUESTION"
+    },
+    {
+        "text": "International",
+        "label": "I-HEADER"
+    },
+    {
+        "text": "Tobacco",
+        "label": "O"
+    },
+    {
+        "text": "May",
+        "label": "O"
+    },
+    {
+        "text": "1,",
+        "label": "B-ANSWER"
+    },
+    {
+        "text": "1985",
+        "label": "O"
+    },
+    {
+        "text": "May",
+        "label": "O"
+    },
+    {
+        "text": "1,",
+        "label": "O"
+    },
+    {
+        "text": "1985",
+        "label": "O"
+    }
+]
